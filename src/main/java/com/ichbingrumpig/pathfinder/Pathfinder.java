@@ -27,6 +27,7 @@ public class Pathfinder implements Runnable {
     /** The board dimensions */
     private static int boardWidth, boardHeight;
 
+    /** Stores key-value pairs with grid values and their travelling cost factors */
     private static SparseArray<Float> travellingCostRules;
 
     /** The settings for the algorithm */
