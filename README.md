@@ -29,4 +29,4 @@ You can now initialize the library with those data and rules and simply let the 
 	1. Initialize via Pathfinder#initialize()
 	2. Find optimal paths via Pathfinder#findPath()
 
-for a detailed example on how to use this library see [this](example.java)
+for a detailed example on how to use this library see [this](Example.java)
